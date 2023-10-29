@@ -15,6 +15,7 @@ This project is a responsive web design example for a pricing page. It showcases
 - Clone the repository to your local machine.
 
    ```bash
+   https://github.com/vinayAllavarapu/pricetries.git
 ##credits
 - Font: Open Sans from Google Fonts.
 - Icons: Icons used in the project are stored in the "icons" directory.
